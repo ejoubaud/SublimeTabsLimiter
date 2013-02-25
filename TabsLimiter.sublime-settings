@@ -1,0 +1,8 @@
+{
+	// How many open tabs do you want to allow ? (0 for no limit)
+	"tab_number_limit": 6,
+	// Should this limit apply by group (true) or on the whole window (false) ?
+	"limit_tabs_by_group": false,
+	// Looks for a closable tab from the right (true) or from the left (false) ?
+	"close_right_tab_first": false
+}
