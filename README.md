@@ -7,7 +7,7 @@ Once you reach a certain number of tabs, they become useless. You can't even see
 
 This plugin works a bit like iPad's Safari. It will automatically replace older tabs when you open a new one, so you don't overreach a configurable limit.
 
-Its target is focus and peace of mind, so *it will never close any tab with unsaved work*, nor display you any notification, nor ask you any move. If you have nothing but tabs with open work, it will just ignore the limit and create a new tab anyway.
+Its target is focus and peace of mind, so **it will never close any tab with unsaved work**, nor display any notification. If you have nothing but tabs with unsaved work, it will just ignore the limit and create a new tab anyway.
 
 ### Installation
 
