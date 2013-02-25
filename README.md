@@ -21,7 +21,11 @@ For now, TabsLimiter's configuration file allows you to:
 
 * set your own limit for the number of tabs
 * limit the number of tabs in a display group, or for the whole window (the sum of all groups)
-* start removing old tabs from the right (if you want to keep a handful of reference files at keyboard shortcut range) or from the left (if have rather to keep more recent tabs over older ones)
+* specify the order of tabs removal:
+** inactive tabs first (tabs that have been loaded/saved longer before go first)
+** active tabs first (tabs that have been loaded/saved more recently go first)
+** from the right (if you want to keep a handful of reference files at keyboard shortcut range)
+** from the left (if have rather to keep more recent tabs over older ones)
 
 ### Limitations
 
