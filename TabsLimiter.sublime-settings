@@ -11,7 +11,7 @@
 	//  - right:    Rightmost tab is closed first
 	//  - left:     Leftmost tab is closed first
 	// NB: We don't close tabs with unsaved work
-	//     so if you choose "right", and the right tab has unsaved work,
-	//     the plugin will check the tab on its right, and so on
+	//     so if you choose "right", and the rightmost tab has unsaved work,
+	//     the plugin will check the tab on its left, and so on
 	"close_order": "inactive"
 }
