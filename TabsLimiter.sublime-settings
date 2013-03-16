@@ -3,7 +3,7 @@
 	"tab_number_limit": 6,
 
 	// Should this limit apply by group (true) or on the whole window (false) ?
-	"limit_tabs_by_group": false,
+	"limit_tabs_by_group": true,
 
 	// Method used to find which tab to close first:
 	//  - inactive: Tab accessed for the last time the least recently is closed first (default)
